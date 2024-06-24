@@ -1,0 +1,38 @@
+h1 {
+  font-family:"SKODA" sans-serif
+}
+p {
+    color: #1b254f;
+    font-size:50px;
+  }
+
+
+body{
+  background-image: url(https://pbs.twimg.com/media/GBTFrSzXoAAPJt8?format=png&name=4096x4096);
+  background-repeat: no-repeat;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00aeff
+  
+  ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
